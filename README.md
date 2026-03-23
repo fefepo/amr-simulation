@@ -1,6 +1,6 @@
 ## 📌 프로젝트 개요
 
-본 프로젝트는 산업용 환경에서 다수의 AMR(Autonomous Mobile Robot)이  
+본 프로젝트는 산업 환경에서 다수의 AMR(Autonomous Mobile Robot)이  
 공유 공간 내에서 이동할 때 발생할 수 있는 충돌을 회피하고,  
 경로를 동적으로 재탐색하는 시뮬레이션 프로그램이다.
 
