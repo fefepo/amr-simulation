@@ -19,7 +19,7 @@
 다중 AMR 환경에서 각 로봇이 독립적으로 경로를 생성하며 이동
 
 <p align="center">
-  <img src="assets/action3.png" width="45%">
+  <img src="assets/action3.gif" width="45%">
 </p>
 
 ### 다중 로봇 환경 시뮬레이션 결과
